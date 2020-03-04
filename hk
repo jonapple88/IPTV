@@ -28,10 +28,8 @@ http://wowgua.com/live/channel_331.m3u8
 http://wowgua.com/live/channel_332.m3u8
 #EXTINF:-1 tvg-logo="https://pic.pngsucai.com/00/10/05/dce8c29c3b15bd50.jpg" group-title="粵語",C+ 频道
 https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/index.m3u8
-#EXTINF:-1 ,[粤语|香港] ViuTV 96
-http://hls.globaliptv.ml/viu96.php
-#EXTINF:-1 ,[粤语|香港] ViuTV 99
-http://hls.globaliptv.ml/viu99.php
+#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港台频道",Viu TV(代理)
+http://103.56.112.40/kds/aigt.php?id=8
 #EXTINF:-1 tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv1-hd.png" group-title="Việt Nam",VTV 1
 http://or7qkl7etl.vcdn.com.vn/hls/VTV1_HD_631/03.m3u8
 #EXTINF:-1 tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv2-hd.png" group-title="Việt Nam",VTV 2
