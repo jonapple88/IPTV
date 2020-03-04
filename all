@@ -1,0 +1,50 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://devwebsvr2.cosmel.com/uat.cits.hk/mytv-super/public/images/Free-iNews.png" group-title="新闻台",無綫新聞
+http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
+#EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d6679429a.png" group-title="新闻台",有線新聞
+https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8
+#EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d6679429a.png" group-title="新闻台",有線新聞Teslagram
+http://teslagram.com/live/channel_109.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/16/I-CABLE_Live_News_Channel.png" group-title="新闻台",有線直播新聞Teslagram
+http://teslagram.com/live/channel_110.m3u8
+#EXTINF:-1 tvg-logo="https://news.now.com/revamp2014/images/logo.png" group-title="粵語",Now新聞Teslagram
+http://teslagram.com/live/channel_332.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Now_Live_News_logo.svg/1200px-Now_Live_News_logo.svg.png" group-title="粵語",Now直播台Teslagram
+http://teslagram.com/live/channel_331.m3u8
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/326_300.png" group-title="粵語",翡翠台                  
+http://103.56.112.40/kds/aigt.php?id=1
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="粵語",翡翠明珠
+http://103.56.112.40/kds/aigt.php?id=1
+#EXTINF:-1 tvg-logo="https://www.hkatv.com/images/logo.png" group-title="粵語",亞洲電視台
+https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
+#EXTINF:-1 tvg-logo="http://www.hkopentv.com/assets/images/opentv_logo.png" group-title="粵語",香港开電視
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:-1 tvg-logo="http://www.utvhk.com/maint/images/channel/7ac969f6ec0ff483fcb34b05a257d7d1.png" group-title="粵語",有線綜合娛樂
+https://icable.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f-3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Now_Live_News_logo.svg/1200px-Now_Live_News_logo.svg.png" group-title="粵語",Now直播台Wowgua
+http://wowgua.com/live/channel_331.m3u8
+#EXTINF:-1 tvg-logo="https://news.now.com/revamp2014/images/logo.png" group-title="粵語",Now新聞Wowgua
+http://wowgua.com/live/channel_332.m3u8
+#EXTINF:-1 tvg-logo="https://pic.pngsucai.com/00/10/05/dce8c29c3b15bd50.jpg" group-title="粵語",C+ 频道
+https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/index.m3u8
+#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港台频道",Viu TV(代理)
+http://103.56.112.40/kds/aigt.php?id=8
+#EXTINF:-1 tvg-id="tv.101406020625" tvg-logo="https://i.mjh.nz/au/images/tv.101406020625.png",TEN
+https://i.mjh.nz/au/Sydney/tv.101406020625.m3u8
+#EXTINF:-1 tvg-id="tv.101305020520" tvg-logo="https://i.mjh.nz/au/images/tv.101305020520.png",Seven
+https://i.mjh.nz/au/Sydney/tv.101305020520.m3u8
+#EXTINF:-1 tvg-id="tv.320203000307" tvg-logo="https://i.mjh.nz/au/images/tv.320203000307.png",SBS World Movies Sydney
+https://i.mjh.nz/au/Sydney/tv.320203000307.m3u8
+#EXTINF:-1 tvg-id="tv.320203000301" tvg-logo="https://i.mjh.nz/au/images/tv.320203000301.png",SBS
+https://i.mjh.nz/au/Sydney/tv.320203000301.m3u8
+#EXTINF:-1 tvg-id="tv.101204200421" tvg-logo="https://i.mjh.nz/au/images/tv.101204200421.png",Channel 9
+https://i.mjh.nz/au/Sydney/tv.101204200421.m3u8
+#EXTINF:-1 tvg-id="tv.101002210220" tvg-logo="https://i.mjh.nz/au/images/tv.101002210220.png",ABC NEWS
+https://i.mjh.nz/au/Sydney/tv.101002210220.m3u8
+#EXTINF:-1 tvg-id="tv.101002210222" tvg-logo="http://i.mjh.nz/au/images/tv.abckids.png",ABC KIDS
+https://i.mjh.nz/au/Sydney/tv.101002210222.m3u8
+#EXTINF:-1 tvg-id="tv.fox.sports.news" tvg-logo="https://i.mjh.nz/au/images/tv.fox.sports.news.png",Fox Sports News
+https://i.mjh.nz/au/Sydney/tv.fox.sports.news.m3u8
+
+
