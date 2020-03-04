@@ -32,20 +32,22 @@ https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/index.m3u8
 http://103.56.112.40/kds/aigt.php?id=8
 #EXTINF:-1 tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv1-hd.png" group-title="Việt Nam",VTV 1
 http://or7qkl7etl.vcdn.com.vn/hls/VTV1_HD_631/03.m3u8
+#EXTINF:-1 tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv1-hd.png" group-title="Việt Nam",VTV 1
+http://xemtivi.online/live/vtv1/index.m3u8
 #EXTINF:-1 tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv2-hd.png" group-title="Việt Nam",VTV 2
-http://xemtivi.online/live/vtv2/index.m3u8?1582945058
+http://xemtivi.online/live/vtv2/index.m3u8
 #EXTINF:-1 tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv3-hd.png" group-title="Việt Nam",VTV 3
-http://xemtivi.online/live/vtv3/index.m3u8?1582945083
+http://xemtivi.online/live/vtv3/index.m3u8
 #EXTINF:-1 tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv4-hd.png" group-title="Việt Nam",VTV 4
-http://xemtivi.online/live/vtv4/index.m3u8?1582945095
+http://xemtivi.online/live/vtv4/index.m3u8
 #EXTINF:-1 tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv5-hd.png" group-title="Việt Nam",VTV 5
-http://xemtivi.online/live/vtv5/index.m3u8?1582945111
+http://xemtivi.online/live/vtv5/index.m3u8
 #EXTINF:-1 tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv6-hd.png" group-title="Việt Nam",VTV 6
-http://xemtivi.online/live/vtv6/index.m3u8?1582945122
+http://xemtivi.online/live/vtv6/index.m3u8
 #EXTINF:-1 tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv7-hd.png" group-title="Việt Nam",VTV 7
-http://xemtivi.online/live/vtv7/index.m3u8?1582945136
+http://xemtivi.online/live/vtv7/index.m3u8
 #EXTINF:-1 tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv8-hd-1.png" group-title="Việt Nam",VTV 8
-http://xemtivi.online/live/vtv8/index.m3u8?1582945144
+http://xemtivi.online/live/vtv8/index.m3u8
 #EXTINF:-1 tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv9-hd-1.png" group-title="Việt Nam",VTV 9
 http://203.162.123.178:8080/vtv9/index.m3u8
 #EXTINF:-1 tvg-id="tv.101406020625" tvg-logo="https://i.mjh.nz/au/images/tv.101406020625.png",TEN
