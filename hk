@@ -22,10 +22,6 @@ https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:-1 tvg-logo="http://www.utvhk.com/maint/images/channel/7ac969f6ec0ff483fcb34b05a257d7d1.png" group-title="粵語",有線綜合娛樂
 https://icable.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f-3.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Now_Live_News_logo.svg/1200px-Now_Live_News_logo.svg.png" group-title="粵語",Now直播台Wowgua
-http://wowgua.com/live/channel_331.m3u8
-#EXTINF:-1 tvg-logo="https://news.now.com/revamp2014/images/logo.png" group-title="粵語",Now新聞Wowgua
-http://wowgua.com/live/channel_332.m3u8
 #EXTINF:-1 tvg-logo="https://pic.pngsucai.com/00/10/05/dce8c29c3b15bd50.jpg" group-title="粵語",C+ 频道
 https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/index.m3u8
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港台频道",Viu TV(代理)
