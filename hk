@@ -19,3 +19,9 @@ http://livetv.dnsfor.me:80/channel.10.m3u8
 http://livetv.dnsfor.me:80/channel.9.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/nowsportsprime.png" group-title="香港", now SPORTS PRIME
 http://livetv.dnsfor.me:80/channel.12.m3u8
+#EXTINF:164 $ExtFilter="NBTC - LG U+",TVB JADE
+http://livetv.dnsfor.me:80/channel.18.m3u8
+#EXTINF:162 $ExtFilter="NBTC - LG U+",TVB J2
+http://livetv.dnsfor.me:80/channel.19.m3u8
+#EXTINF:166 $ExtFilter="NBTC - LG U+",VIU TV
+http://livetv.dnsfor.me:80/channel.20.m3u8
