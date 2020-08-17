@@ -25,3 +25,17 @@ http://livetv.dnsfor.me:80/channel.18.m3u8
 http://livetv.dnsfor.me:80/channel.19.m3u8
 #EXTINF:166 $ExtFilter="NBTC - LG U+",VIU TV
 http://livetv.dnsfor.me:80/channel.20.m3u8
+#EXTINF:161 $ExtFilter="NBTC - LG U+",TVB NEWS
+http://61.238.6.49:8001/bysid/83
+#EXTINF:162 $ExtFilter="NBTC - LG U+",TVB J2
+http://61.238.6.49:8001/bysid/82
+#EXTINF:163 $ExtFilter="NBTC - LG U+",TVB PEARL
+http://61.238.6.49:8001/bysid/2
+#EXTINF:164 $ExtFilter="NBTC - LG U+",TVB JADE
+http://61.238.6.49:8000/bysid/1
+#EXTINF:165 $ExtFilter="NBTC - LG U+",TVB FINANCE
+http://61.238.6.49:8001/bysid/85
+#EXTINF:166 $ExtFilter="NBTC - LG U+",VIU TV
+http://61.238.6.49:8000/bysid/99
+#EXTINF:167 $ExtFilter="NBTC - LG U+",VIU TV SIX
+http://61.238.6.49:8000/bysid/96
