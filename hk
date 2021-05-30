@@ -1,8 +1,8 @@
 #EXTINF:-1 tvg-id="FCT.HK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="香港", 翡翠台
-https://cdn.hkdtmb.com/hls/81
+EG:https://cdn.hkdtmb.com/hls/81
 
 #EXTINF:-1 tvg-id="V99.HK" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="香港", ViuTV
-https://cdn.hkdtmb.com/hls/99
+EG:https://cdn.hkdtmb.com/hls/99
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.tvyan.com/uploads/dianshi/rhk31.jpg" group-title="香港", 港台電視31
 http://113.255.161.76:9981/stream/channelid/1467517977
