@@ -1,0 +1,325 @@
+#EXTINF:-1, tvg-name="NOW SPORTS" tvg-logo="NOW SPORTS" group-title="🇭🇰HK/香港频道🇭🇰",NOW SPORTS
+http://58.176.174.155:12345/1.ts
+#EXTINF:-1, tvg-name="翡翠台" tvg-logo="翡翠台"   group-title="🇭🇰HK/香港频道🇭🇰",*TVB翡翠台
+http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
+#EXTINF:-1, tvg-name="J2" tvg-logo="TVB J2 group-title="🇭🇰HK/香港频道🇭🇰",TVB J2
+http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
+
+#EXTINF:-1, tvg-name="凤凰资讯" tvg-logo="凤凰资讯" group-title="🇭🇰HK/香港频道🇭🇰",凤凰资讯HD
+http://110.72.64.163:808/hls/1/index.m3u8
+#EXTINF:-1, tvg-name="TVB星河" tvg-logo="TVB星河" group-title="🇭🇰HK/香港频道🇭🇰",TVB星河台
+http://110.72.64.163:808/hls/57/index.m3u8
+#EXTINF:-1, tvg-name="星空卫视" tvg-logo="星空卫视" group-title="🇭🇰HK/香港频道🇭🇰",星空卫视
+http://110.72.64.163:808/hls/60/index.m3u8
+#EXTINF:-1, tvg-name="天映经典CCM" tvg-logo="天映经典CCM" group-title="🇭🇰HK/香港频道🇭🇰",天映经典CCM
+http://110.72.64.163:808/hls/61/index.m3u8
+#EXTINF:-1, tvg-name="凤凰中文" tvg-logo="凤凰中文" group-title="🇭🇰HK/香港频道🇭🇰",凤凰中文
+http://110.72.64.163:808/hls/62/index.m3u8
+#EXTINF:-1, tvg-name="凤凰资讯" tvg-logo="凤凰资讯" group-title="🇭🇰HK/香港频道🇭🇰",凤凰资讯
+http://110.72.64.163:808/hls/63/index.m3u8
+#EXTINF:-1, tvg-name="CHANNEL【V】" tvg-logo="CHANNEL【V】" group-title="🇭🇰HK/香港频道🇭🇰",CHANNEL【V】
+http://110.72.64.163:808/hls/64/index.m3u8
+#EXTINF:-1, tvg-name="China Movie" tvg-logo="China Movie" group-title="🇭🇰HK/香港频道🇭🇰",China Movie
+http://110.72.64.163:808/hls/65/index.m3u8
+
+#EXTINF:-1, tvg-name="经典电影台HD" tvg-logo="经典电影台HD" group-title="🇭🇰HK/香港频道🇭🇰",*经典电影台HD
+http://111.6.242.36/txpcdn.liveplay.egame.qq.com/live/3954_792423235.m3u8
+
+
+#EXTINF:-1, tvg-name="ONFM" tvg-logo="ONFM" group-title="🇭🇰HK/香港频道🇭🇰",ONFM
+http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
+#EXTINF:-1, tvg-name="纬来电影台" tvg-logo="纬来电影台" group-title="🇭🇰HK/香港频道🇭🇰",纬来电影台HD(安博ublive原生源)
+http://z1.ubtvfans.com/live/96/3b503d12a156efc7d2eda12de19d5272/index.m3u8
+#EXTINF:-1, tvg-name="纬来电影台" tvg-logo="纬来电影台" group-title="🇭🇰HK/香港频道🇭🇰",FOX MOVIES
+http://z1.ubtvfans.com/live/387/b7519fed9c92e31727de4834b44d25e4/index.m3u8
+
+#EXTINF:-1, tvg-name="NOW爆谷台" tvg-logo="NOW爆谷台"   group-title="🇭🇰HK/香港频道🇭🇰",NOW爆谷台
+http://v3948069e.live.126.net/live/7z59f1303e848e481fbc3543d583658c3/playlist.m3u8
+#EXTINF:-1, tvg-name="三立LIVE新闻" tvg-logo="三立新闻台"   group-title="🇭🇰HK/香港频道🇭🇰",三立LIVE新闻
+http://v3948069e.live.126.net/live/us01/tw20200114sanlinews.flv
+#EXTINF:-1, tvg-name="中天新闻台" tvg-logo="中天新闻台"   group-title="🇭🇰HK/香港频道🇭🇰",中天新闻台
+http://v3948069e.live.126.net/live/us01/tw20200114zhongtiannews.flv
+#EXTINF:-1, tvg-name="东森新闻台" tvg-logo="东森新闻台"   group-title="🇭🇰HK/香港频道🇭🇰",东森新闻台
+http://v3948069e.live.126.net/live/us01/tw20200114dongsennews.flv
+
+#EXTINF:-1, tvg-name="翡翠台" tvg-logo="TVB翡翠台"   group-title="🇭🇰HK/香港频道🇭🇰",TVB翡翠台
+https://playks-flv.shangzhibo.tv/onelive/10289541-SAcVOjlEu.flv
+
+#EXTINF:-1, tvg-name="有线新闻台" tvg-logo="HKC有线新闻台"   group-title="🇭🇰HK/香港频道🇭🇰",有線新闻台
+http://livetv.dnsfor.me:80/channel.5.m3u8
+#EXTINF:-1, tvg-name="有线财经资讯台" tvg-logo="HKC有线财经资讯台"   group-title="🇭🇰HK/香港频道🇭🇰",有線財經資訊台
+http://livetv.dnsfor.me/channel.6.m3u8
+#EXTINF:-1, tvg-name="有线综合娱乐台" tvg-logo="HKC有线综合娱乐台"   group-title="🇭🇰HK/香港频道🇭🇰",有線綜合娱乐台
+http://livetv.dnsfor.me/channel.7.m3u8
+
+#EXTINF:-1, tvg-name="凤凰中文" tvg-logo="凤凰中文台"   group-title="🇭🇰HK/香港频道🇭🇰",凤凰中文HD
+http://223.110.245.167:80/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
+#EXTINF:-1, tvg-name="凤凰资讯" tvg-logo="凤凰资讯台"   group-title="🇭🇰HK/香港频道🇭🇰",凤凰资讯HD
+http://223.110.245.167:80/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
+#EXTINF:-1, tvg-name="凤凰中文" tvg-logo="凤凰中文台"   group-title="🇭🇰HK/香港频道🇭🇰",凤凰中文台
+http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
+
+#EXTINF:-1, tvg-name="凤凰资讯" tvg-logo="凤凰资讯台"   group-title="🇭🇰HK/香港频道🇭🇰",凤凰资讯
+http://39.134.176.148/PLTV/88888888/224/3221226491/index.m3u8
+#EXTINF:-1, tvg-name="凤凰资讯" tvg-logo="凤凰资讯台"   group-title="🇭🇰HK/香港频道🇭🇰",凤凰资讯HD
+http://117.169.120.138:8080/live/fhzixun/.m3u8
+#EXTINF:-1, tvg-name="凤凰香港台" tvg-logo="凤凰香港台"   group-title="🇭🇰HK/香港频道🇭🇰",凤凰香港台
+http://125.89.166.215:80/live-hwcdn.utvlive.top/live/a4e8cf74196e40959485a9ef4c532d02/6286b2bbb78341cd9fa92c7b37ccc03c-1.m3u8
+‪#EXTINF:-1, tvg-name="凤凰中文" tvg-logo="凤凰中文台"   group-title="🇭🇰HK/香港频道🇭🇰",凤凰中文台-蓝光
+http://112.17.40.139:80/PLTV/88888888/224/3221226368/index.m3u8?icpid88888888&from30&hms_devid1452
+#EXTINF:-1, tvg-name="凤凰资讯" tvg-logo="凤凰资讯台"   group-title="🇭🇰HK/香港频道🇭🇰",凤凰资讯台-蓝光
+http://112.17.40.197:80/PLTV/88888888/224/3221226491/index.m3u8?icpid88888888&from30&hms_devid1452
+#EXTINF:-1, tvg-name="凤凰中文" tvg-logo="凤凰中文台"   group-title="🇭🇰HK/香港频道🇭🇰",凤凰中文
+http://112.17.40.140/PLTV/88888888/224/3221226368/index.m3u8 
+#EXTINF:-1, tvg-name="凤凰资讯" tvg-logo="凤凰资讯台"   group-title="🇭🇰HK/香港频道🇭🇰",凤凰资讯
+http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo=""   group-title="🇭🇰HK/香港频道🇭🇰",NHK 华语视界
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo=""   group-title="🇭🇰HK/香港频道🇭🇰",凤凰中文高清
+http://221.179.217.69/PLTV/88888888/224/3221225942/1.m3u8?icpid=88888888&from=1&ocs=2_111.13.42.7_80&hms_devid=3
+#EXTINF:-1, tvg-name="" tvg-logo=""   group-title="🇭🇰HK/香港频道🇭🇰",凤凰资讯高清
+http://221.179.217.94/PLTV/88888888/224/3221225949/1.m3u8?icpid=88888888&from=1&hms_devid=83
+#EXTINF:-1, tvg-name="" tvg-logo=""   group-title="🇭🇰HK/香港频道🇭🇰",凤凰香港6M1080
+http://live-hwcdn.utvlive.top/live/a4e8cf74196e40959485a9ef4c532d02/6286b2bbb78341cd9fa92c7b37ccc03c.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo=""   group-title="🇭🇰HK/香港频道🇭🇰",澳亚卫视480
+http://mastvnet-hwcdn.utvlive.top/4rlff1m/1024/live.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo=""   group-title="🇭🇰HK/香港频道🇭🇰",有线新闻1080
+http://live-hwcdn.utvlive.top/live/97609933ef744f008e19a6e0d5ef9f2b/edd34677cc9548539d36b10c1c594b94-3.m3u8
+#EXTINF:-1, tvg-name="凤凰中文台" tvg-logo="凤凰中文台"   group-title="🇭🇰HK/香港频道🇭🇰",凤凰中文台
+http://hdtv.haust.edu.cn/hls/fhzw.m3u8
+#EXTINF:-1, tvg-name="凤凰资讯台" tvg-logo="凤凰资讯台"   group-title="🇭🇰HK/香港频道🇭🇰",凤凰资讯台
+http://hdtv.haust.edu.cn/hls/fhzx.m3u8
+#EXTINF:-1, tvg-name="凤凰电影" tvg-logo="凤凰电影"  group-title="🇭🇰HK/香港频道🇭🇰",🇭🇰凤凰电影1
+http://hdtv.haust.edu.cn/hls/fhdy.m3u8
+#EXTINF:-1, tvg-name="凤凰电影" tvg-logo="凤凰电影"  group-title="🇭🇰HK/香港频道🇭🇰",🇭🇰凤凰电影2
+rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
+#EXTINF:-1, tvg-name="凤凰电影" tvg-logo="凤凰电影"  group-title="🇭🇰HK/香港频道🇭🇰",🇭🇰凤凰电影3
+rtmp://ivi.bupt.edu.cn/livetv/fhdy
+#EXTINF:-1, tvg-name="凤凰中文台" tvg-logo="凤凰中文台"   group-title="🇭🇰HK/香港频道🇭🇰",凤凰中文台HD
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/index.m3u8
+#EXTINF:-1, tvg-name="凤凰资讯台" tvg-logo="凤凰资讯台"   group-title="🇭🇰HK/香港频道🇭🇰",凤凰资讯台HD
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8
+#EXTINF:-1, tvg-name="凤凰香港台" tvg-logo="凤凰香港台"   group-title="🇭🇰HK/香港频道🇭🇰",凤凰香港台HD
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225902/index.m3u8
+#EXTINF:-1, tvg-name="凤凰香港台" tvg-logo="凤凰香港台"   group-title="🇭🇰HK/香港频道🇭🇰",凤凰香港台
+http://223.110.245.137/PLTV/3/224/3221226975/index.m3u8
+#EXTINF:-1, tvg-name="凤凰香港台" tvg-logo="凤凰香港台"   group-title="🇭🇰HK/香港频道🇭🇰",凤凰香港台HD
+http://223.82.250.72/live/fhhongkong/1.m3u8
+#EXTINF:-1, tvg-name="亚美卫视" tvg-logo="亚美卫视"   group-title="🇭🇰HK/香港频道🇭🇰",AAT亚美卫视
+http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
+
+#EXTINF:-1, tvg-name="星空卫视" tvg-logo="星空卫视"  group-title="🇭🇰HK/香港频道🇭🇰",🇭🇰*星空卫视
+http://116.199.5.52:8114/00000000/index.m3u8? &Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hl s_se_idx=233
+#EXTINF:-1, tvg-name="星空卫视" tvg-logo="星空卫视"  group-title="🇭🇰HK/香港频道🇭🇰",🇭🇰星空衛視
+rtmp://58.200.131.2/livetv/startv
+#EXTINF:-1, tvg-name="星空卫视" tvg-logo="星空卫视"  group-title="🇭🇰HK/香港频道🇭🇰",🇭🇰星空衛視2
+rtmp://ivi.bupt.edu.cn:1935/livetv/startv
+#EXTINF:-1, tvg-name="CHANNEL[V]" tvg-logo="CHANNEL[V]"  group-title="🇭🇰HK/香港频道🇭🇰",🇭🇰Channel【V】
+rtmp://58.200.131.2/livetv/channelv
+#EXTINF:-1, tvg-name="Discovery" tvg-logo="Discovery"  group-title="🇭🇰HK/香港频道🇭🇰",🇭🇰discovery探索频道
+rtmp://58.200.131.2/livetv/discovery
+#EXTINF:-1, tvg-name="国家地理频道" tvg-logo="国家地理频道"  group-title="🇭🇰HK/香港频道🇭🇰",🇭🇰国家地理频道
+rtmp://58.200.131.2/livetv/natlgeo
+#EXTINF:-1, tvg-name="CHC家庭电影" tvg-logo=" CHC家庭影院"  group-title="🇭🇰HK/香港频道🇭🇰",🇭🇰 CHC家庭影院
+rtmp://58.200.131.2/livetv/chctv
+#EXTINF:-1, tvg-name="CHC动作电影"  tvg-logo="CHC动作电影"  group-title="🇭🇰HK/香港频道🇭🇰",  CHC动作电影
+rtmp://58.200.131.2/livetv/chcatv
+#EXTINF:-1, tvg-name="CHC高清电影" tvg-logo="CHC高清电影"   group-title="🇭🇰HK/香港频道🇭🇰",  CHC高清影院
+rtmp://58.200.131.2/livetv/chchd
+
+
+#EXTINF:-1, tvg-name="爆谷台" tvg-logo="爆谷台"   group-title="🇭🇰HK/香港频道🇭🇰", 爆谷台
+http://mltv.kka.pub/ml.php?id=1
+
+#EXTINF:-1, tvg-name="翡翠台" tvg-logo="翡翠台"   group-title="🇭🇰HK/香港频道🇭🇰",TVB翡翠台(代理)
+http://520574.xyz/dl/iptv.php?id=1
+#EXTINF:-1, tvg-name="翡翠台" tvg-logo="翡翠台"   group-title="🇭🇰HK/香港频道🇭🇰",TVB翡翠台(代理)
+http://a.315600.xyz/dl/iptv.php?id=1
+#EXTINF:-1, tvg-name="J2" tvg-logo="J2"   group-title="🇭🇰HK/香港频道🇭🇰",TVB-J2(代理)
+http://520574.xyz/dl/iptv.php?id=12
+#EXTINF:-1, tvg-name="J2" tvg-logo="J2"   group-title="🇭🇰HK/香港频道🇭🇰",TVB-J2(代理)
+http://a.315600.xyz/dl/iptv.php?id=12
+
+#EXTINF:-1, tvg-name="翡翠台" tvg-logo="翡翠台"   group-title="🇭🇰HK/香港频道🇭🇰",TVB翡翠台
+http://live-bdxcx.mtq.tvmmedia.cn/baidu/live_XGFeiCui.m3u8
+#EXTINF:-1, tvg-name="星空卫视" tvg-logo="星空卫视"   group-title="🇭🇰HK/香港频道🇭🇰",🇭🇰星空卫视0
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1, tvg-name="星空卫视" tvg-logo="星空卫视"   group-title="🇭🇰HK/香港频道🇭🇰",🇭🇰星空卫视1
+http://116.199.5.52:8114/index.m3u8?FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8&Fsv_chan_hls_se_idx=233
+#EXTINF:-1, tvg-name="星空卫视" tvg-logo="星空卫视"   group-title="🇭🇰HK/香港频道🇭🇰",🇭🇰星空卫视2
+http://hdtv.haust.edu.cn/hls/startv.m3u8
+#EXTINF:-1, tvg-name="星空卫视" tvg-logo="星空卫视"   group-title="🇭🇰HK/香港频道🇭🇰",🇭🇰*星空衛視
+rtmp://58.200.131.2:1935/livetv/startv
+#EXTINF:-1, tvg-name="星空卫视" tvg-logo="星空卫视"   group-title="🇭🇰HK/香港频道🇭🇰",🇭🇰星空卫视3
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=233&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+#EXTINF:-1, tvg-name="凤凰电影" tvg-logo="凤凰电影"  group-title="🇭🇰HK/香港频道🇭🇰",🇭🇰凤凰电影
+rtmp://58.200.131.2:1935/livetv/fhdy
+#EXTINF:-1, tvg-name="国家地理频道" tvg-logo="国家地理频道"  group-title="🇭🇰HK/香港频道🇭🇰",  國家地理频道
+rtmp://58.200.131.2:1935/livetv/natlgeo
+#EXTINF:-1, tvg-name="Discovery" tvg-logo="Discovery"  group-title="🇭🇰HK/香港频道🇭🇰",  探索頻道
+rtmp://58.200.131.2:1935/livetv/discovery
+#EXTINF:-1, tvg-name="StarSports"  tvg-logo="StarSports"  group-title="🇭🇰HK/香港频道🇭🇰",  StarSports體育
+rtmp://58.200.131.2:1935/livetv/starsports
+#EXTINF:-1, tvg-name="CHANNEL[V]"  tvg-logo="CHANNEL[V]"  group-title="🇭🇰HK/香港频道🇭🇰",  CHANNEL[V]
+rtmp://58.200.131.2:1935/livetv/channelv
+#EXTINF:-1, tvg-name="金鹰卡通"  tvg-logo="金鹰卡通"  group-title="🇭🇰HK/香港频道🇭🇰",  金鹰卡通
+rtmp://58.200.131.2:1935/livetv/jykttv
+#EXTINF:-1, tvg-name="上海纪实"  tvg-logo="上海纪实"  group-title="🇭🇰HK/香港频道🇭🇰",  上视纪实
+rtmp://58.200.131.2:1935/livetv/docuchina
+#EXTINF:-1, tvg-name="CHC家庭电影"  tvg-logo="CHC家庭影院"  group-title="🇭🇰HK/香港频道🇭🇰",  CHC家庭影院
+rtmp://58.200.131.2:1935/livetv/chctv
+#EXTINF:-1, tvg-name="CHC动作电影"  tvg-logo="CHC动作电影"  group-title="🇭🇰HK/香港频道🇭🇰",  CHC动作电影
+rtmp://58.200.131.2:1935/livetv/chcatv
+#EXTINF:-1, tvg-name="CHC高清电影" tvg-logo="CHC高清电影"   group-title="🇭🇰HK/香港频道🇭🇰",  CHC高清影院
+rtmp://58.200.131.2:1935/livetv/chchd
+#EXTINF:-1, tvg-name="CCTV6" tvg-logo="CCTV6电影"   group-title="🇭🇰HK/香港频道🇭🇰",  CCTV6电影
+rtmp://58.200.131.2:1935/livetv/cctv6
+
+
+
+#EXTINF:-1 tvg-id=".HK" tvg-name="翡翠台" tvg-language="Chinese;Yue Chinese" tvg-country="HK"  tvg-logo="翡翠台"  group-title="🇭🇰HK/香港频道🇭🇰",🇭🇰TVB翡翠台
+https://cdn.hkdtmb.com/hls/81/index.m3u8
+#EXTINF:-1 tvg-id=".HK" tvg-name="J2" tvg-language="Chinese;Yue Chinese" tvg-country="HK"  tvg-logo="J2"  group-title="🇭🇰HK/香港频道🇭🇰",🇭🇰TVB-J2
+https://cdn.hkdtmb.com/hls/22/index.m3u8
+#EXTINF:-1 tvg-id=".HK" tvg-name="明珠台" tvg-language="Chinese;Yue Chinese" tvg-country="HK"  tvg-logo="明珠台"  group-title="🇭🇰HK/香港频道🇭🇰",🇭🇰TVB明珠台
+https://cdn.hkdtmb.com/hls/84/index.m3u8
+#EXTINF:-1 tvg-id=".HK" tvg-name="香港开电视" tvg-language="Chinese;Yue Chinese" tvg-country="HK"  tvg-logo=""  group-title="🇭🇰HK/香港频道🇭🇰",🇭🇰香港開电视
+https://cdn.hkdtmb.com/hls/77/index.m3u8
+#EXTINF:-1 tvg-id=".HK" tvg-name="Viu6" tvg-language="Chinese;Yue Chinese" tvg-country="HK"  tvg-logo="Viu6"  group-title="🇭🇰HK/香港频道🇭🇰",🇭🇰Viu6
+https://cdn.hkdtmb.com/hls/96/index.m3u8
+#EXTINF:-1 tvg-id=".HK" tvg-name="ViuTV" tvg-language="Chinese;Yue Chinese" tvg-country="HK"  tvg-logo="ViuTV"  group-title="🇭🇰HK/香港频道🇭🇰",🇭🇰ViuTV
+https://cdn.hkdtmb.com/hls/99/index.m3u8
+#EXTINF:-1 tvg-id=".HK" tvg-name="RHK31" tvg-language="Chinese;Yue Chinese" tvg-country="HK"  tvg-logo="RHK31"  group-title="🇭🇰HK/香港频道🇭🇰",🇭🇰RHK31
+https://cdn.hkdtmb.com/hls/31/index.m3u8
+#EXTINF:-1 tvg-id=".HK" tvg-name="RHK32" tvg-language="Chinese;Yue Chinese" tvg-country="HK"  tvg-logo="RHK32"  group-title="🇭🇰HK/香港频道🇭🇰",🇭🇰RHK32
+https://cdn.hkdtmb.com/hls/32/index.m3u8
+#EXTINF:-1 tvg-id=".HK" tvg-name="RHK33" tvg-language="Chinese;Yue Chinese" tvg-country="HK"  tvg-logo="RHK33"  group-title="🇭🇰HK/香港频道🇭🇰",🇭🇰RHK33
+https://cdn.hkdtmb.com/hls/33/index.m3u8
+#EXTINF:-1 tvg-id=".HK" tvg-name="HKIBC" tvg-language="Chinese;Yue Chinese" tvg-country="HK"  tvg-logo="HKIBC"  group-title="🇭🇰HK/香港频道🇭🇰",🇭🇰HKIBC香港国际财经台
+https://cdn.hkdtmb.com/hls/76/index.m3u8
+
+#EXTINF:-1 tvg-id=".HK" tvg-name="翡翠台" tvg-language="Chinese;Yue Chinese" tvg-country="HK"  tvg-logo="翡翠台"  group-title="🇭🇰HK/香港频道🇭🇰",🇭🇰TVB翡翠台
+https://cdn.hkdtmb.com/hls/81/index.m3u8
+#EXTINF:-1 tvg-id=".HK" tvg-name="J2" tvg-language="Chinese;Yue Chinese" tvg-country="HK"  tvg-logo="J2"  group-title="🇭🇰HK/香港频道🇭🇰",🇭🇰TVB-J2
+https://cdn.hkdtmb.com/hls/82/index.m3u8
+#EXTINF:-1 tvg-id=".HK" tvg-name="明珠台" tvg-language="Chinese;Yue Chinese" tvg-country="HK"  tvg-logo="明珠台"  group-title="🇭🇰HK/香港频道🇭🇰",🇭🇰TVB明珠台
+https://cdn.hkdtmb.com/hls/84/index.m3u8
+#EXTINF:-1 tvg-id=".HK" tvg-name="Viu6" tvg-language="Chinese;Yue Chinese" tvg-country="HK"  tvg-logo="Viu6"  group-title="🇭🇰HK/香港频道🇭🇰",🇭🇰Viu6
+https://cdn.hkdtmb.com/hls/96/index.m3u8
+#EXTINF:-1 tvg-id=".HK" tvg-name="ViuTV" tvg-language="Chinese;Yue Chinese" tvg-country="HK"  tvg-logo="ViuTV"  group-title="🇭🇰HK/香港频道🇭🇰",🇭🇰ViuTV
+https://cdn.hkdtmb.com/hls/99/index.m3u8
+#EXTINF:-1 tvg-id=".HK" tvg-name="香港开电视" tvg-language="Chinese;Yue Chinese" tvg-country="HK"  tvg-logo=""  group-title="🇭🇰HK/香港频道🇭🇰",🇭🇰香港開电视
+https://cdn.hkdtmb.com/hls/77/index.m3u8
+#EXTINF:-1 tvg-id=".HK" tvg-name="HKIBC" tvg-language="Chinese;Yue Chinese" tvg-country="HK"  tvg-logo="HKIBC"  group-title="🇭🇰HK/香港频道🇭🇰",🇭🇰HKIBC香港国际财经台
+https://cdn.hkdtmb.com/hls/76/index.m3u8
+#EXTINF:-1 tvg-id=".HK" tvg-name="RHK31" tvg-language="Chinese;Yue Chinese" tvg-country="HK"  tvg-logo="RHK31"  group-title="🇭🇰HK/香港频道🇭🇰",🇭🇰RHK31
+https://cdn.hkdtmb.com/hls/31/index.m3u8
+#EXTINF:-1 tvg-id=".HK" tvg-name="RHK32" tvg-language="Chinese;Yue Chinese" tvg-country="HK"  tvg-logo="RHK32"  group-title="🇭🇰HK/香港频道🇭🇰",🇭🇰RHK32
+https://cdn.hkdtmb.com/hls/32/index.m3u8
+#EXTINF:-1 tvg-id=".HK" tvg-name="RHK33" tvg-language="Chinese;Yue Chinese" tvg-country="HK"  tvg-logo="RHK33"  group-title="🇭🇰HK/香港频道🇭🇰",🇭🇰RHK33
+https://cdn.hkdtmb.com/hls/33/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="V99.HK" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/Viu%20TV.png" tvg-name="ViuTV" group-title="🇭🇰HK/香港频道🇭🇰",ViuTV
+http://61.238.6.49:8000/bysid/99
+#EXTINF:-1 tvg-id="FCT.HK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" tvg-name="翡翠台" group-title="🇭🇰HK/香港频道🇭🇰",翡翠台                  
+http://61.238.6.49:8000/bysid/1
+#EXTINF:-1 tvg-id="FC2.HK" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" tvg-name="J2" group-title="🇭🇰HK/香港频道🇭🇰",J2台                  
+http://61.238.6.49:8001/bysid/82
+#EXTINF:-1 tvg-id="MZT.HK" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" tvg-name="明珠台" group-title="🇭🇰HK/香港频道🇭🇰",明珠台
+http://61.238.6.49:8001/bysid/2.mpeg
+#EXTINF:-1 tvg-id="WXX.HK" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/wuxianxinwentai.png" tvg-name="无线新闻" group-title="🇭🇰HK/香港频道🇭🇰",無綫新聞台                
+http://61.238.6.49:8001/bysid/83
+#EXTINF:-1 tvg-id="WXC.HK" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/wuxiancaijingzixuntai.png" tvg-name="无线财经" group-title="🇭🇰HK/香港频道🇭🇰",無綫財經資訊台
+http://61.238.6.49:8001/bysid/85
+#EXTINF:-1 tvg-id="KAI.HK" tvg-logo="http://www.hkopentv.com/assets/images/opentv_logo.png" tvg-name="香港开电视" group-title="🇭🇰HK/香港频道🇭🇰",香港开電視
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:-1 tvg-ID="YYL.HK" tvg-logo="http://utvhk.com/maint/images/channel/7ac969f6ec0ff483fcb34b05a257d7d1.png" tvg-name="🇭🇰HK/香港频道🇭🇰" group-title="🇭🇰HK/香港频道🇭🇰",有線綜合娱乐
+http://livetv.dnsfor.me/channel.7.m3u8
+#EXTINF:-1 tvg-ID="YXW.HK" tvg-logo="http://utvhk.com/maint/images/channel/d116ecd633cdbff96b0a91867d4f7f8c.png" tvg-name="有線新闻" group-title="🇭🇰HK/香港频道🇭🇰",有線新闻
+http://livetv.dnsfor.me:80/channel.5.m3u8
+#EXTINF:-1 tvg-ID="YCJ.HK" tvg-logo="http://utvhk.com/maint/images/channel/be75ddf0144b7fccdd03bf8016a61f64.png" tvg-name="有線财经资讯" group-title="🇭🇰HK/香港频道🇭🇰",有線財經資訊
+http://livetv.dnsfor.me/channel.6.m3u8
+
+#EXTINF:-1, tvg-name="国家地理频道" tvg-logo="国家地理频道"  group-title="🇭🇰HK/香港频道🇭🇰",  國家地理频道
+rtmp://58.200.131.2:1935/livetv/natlgeo
+#EXTINF:-1, tvg-name="Discovery" tvg-logo="Discovery"  group-title="🇭🇰HK/香港频道🇭🇰",  探索頻道
+rtmp://58.200.131.2:1935/livetv/discovery
+#EXTINF:-1, tvg-name="StarSports"  tvg-logo="StarSports" group-title="🇭🇰HK/香港频道🇭🇰",  StarSports體育
+rtmp://58.200.131.2:1935/livetv/starsports
+#EXTINF:-1, tvg-name="CHANNEL[V]"  tvg-logo="CHANNEL[V]" group-title="🇭🇰HK/香港频道🇭🇰",🇭🇰Channel【V】
+rtmp://58.200.131.2:1935/livetv/channelv
+#EXTINF:-1, tvg-name="金鹰卡通"  tvg-logo="金鹰卡通" group-title="🇭🇰HK/香港频道🇭🇰",  金鹰卡通
+rtmp://58.200.131.2:1935/livetv/jykttv
+#EXTINF:-1, tvg-name="上海纪实"  tvg-logo="上海纪实" group-title="🇭🇰HK/香港频道🇭🇰",  上视纪实
+rtmp://58.200.131.2:1935/livetv/docuchina
+#EXTINF:-1, tvg-name="CHC家庭电影"  tvg-logo="CHC家庭影院" group-title="🇭🇰HK/香港频道🇭🇰",  CHC家庭影院
+rtmp://58.200.131.2:1935/livetv/chctv
+#EXTINF:-1, tvg-name="CHC动作电影"  tvg-logo="CHC动作电影" group-title="🇭🇰HK/香港频道🇭🇰",  CHC动作电影
+rtmp://58.200.131.2:1935/livetv/chcatv
+#EXTINF:-1, tvg-name="CHC高清电影" tvg-logo="CHC高清电影"  group-title="🇭🇰HK/香港频道🇭🇰",  CHC高清影院
+rtmp://58.200.131.2:1935/livetv/chchd
+#EXTINF:-1, tvg-name="CCTV6" tvg-logo="CCTV6电影"  group-title="🇭🇰HK/香港频道🇭🇰",  CCTV6电影
+rtmp://58.200.131.2:1935/livetv/cctv6
+
+#EXTINF:-1, group-title="🇭🇰HK/香港频道🇭🇰",  番薯TV
+http://210.209.3.1/live/C02DD98E-593E-47A8-905C-3B101183A555?fmt=x264_500K_ts&cpid=admin&size
+#EXTINF:-1, tvg-name="J2" tvg-logo="TVB J2"  group-title="🇭🇰HK/香港频道🇭🇰",  TVBJ2HD(1080P)
+https://ws.matchupstream.tuboshu.com/live/TVBJ2HD.flv
+
+#EXTINF:-1, tvg-name="Now爆谷台" tvg-logo="Now爆谷台"  group-title="🇭🇰HK/香港频道🇭🇰",Now爆谷台1
+http://ws.matchupstream.tuboshu.com/live/2fb9393620adf1cb5775b41942262050.flv
+#EXTINF:-1, tvg-name="爆谷台" tvg-logo="爆谷台"   group-title="🇭🇰HK/香港频道🇭🇰",  NOW爆谷台2
+http://live.ecook.cn/live/aac141e8d7cff6ae40c60fb4bfa96de6.m3u8
+#EXTINF:-1, tvg-name="爆谷台" tvg-logo="爆谷台"   group-title="🇭🇰HK/香港频道🇭🇰",  Now爆谷台3
+https://ws.matchupstream.tuboshu.com/live/997760bb62aaf66ab5acc6d30bf88835.flv
+#EXTINF:-1, tvg-name="爆谷台" tvg-logo="爆谷台"   group-title="🇭🇰HK/香港频道🇭🇰",  Now爆谷台4
+https://ws.matchupstream.tuboshu.com/live/e83a0e29c16e11939a16aaabbe8def9b.flv
+#EXTINF:-1, tvg-name="爆谷台" tvg-logo="爆谷台"   group-title="🇭🇰HK/香港频道🇭🇰",  Now爆谷台(录播)1
+https://myun-hw-s3.myun.tv/melj80jz/0ezv7bya/1585467130841903485.m3u8
+#EXTINF:-1, tvg-name="爆谷台" tvg-logo="爆谷台"   group-title="🇭🇰HK/香港频道🇭🇰",  Now爆谷台(录播)2
+https://myun-hw-s3.myun.tv/melj80jz/56xk36p7/1583754037503666897.m3u8
+
+#EXTINF:-1, tvg-name="天映频道" tvg-logo="天映频道"   group-title="🇭🇰HK/香港频道🇭🇰",**天映频道HD
+http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+#EXTINF:-1, tvg-name="天映经典" tvg-logo="天映经典"   group-title="🇭🇰HK/香港频道🇭🇰",**天映经典CCM
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+#EXTINF:-1, tvg-name="天映经典" tvg-logo="天映经典"   group-title="🇭🇰HK/香港频道🇭🇰",  天映经典CCM
+http://139.99.89.74/ccm/mpegts
+#EXTINF:-1, tvg-name="天映经典" tvg-logo="天映经典"   group-title="🇭🇰HK/香港频道🇭🇰",  天映经典CCM
+https://playks-flv.shangzhibo.tv/onelive/10225674-Heftty4ys.flv
+#EXTINF:-1, tvg-name="天映经典" tvg-logo="天映经典"   group-title="🇭🇰HK/香港频道🇭🇰",  天映经典CCM
+http://tv.wakds.xyz:8080/pptvy/76937/3523
+#EXTINF:-1, tvg-name="天映频道" tvg-logo="天映频道"   group-title="🇭🇰HK/香港频道🇭🇰",  天映频道HD
+http://45.126.83.51/qwr9ew/s/s33/index.m3u8
+
+#EXTINF:-1, tvg-name="卫视卡式台" tvg-logo="卫视卡式台F"  group-title="🇭🇰HK/香港频道🇭🇰",*卫视卡式台0
+http://93.190.139.35:8278/streams/d/Weishilegend/playlist.m3u8
+#EXTINF:-1, tvg-name="卫视卡式台" tvg-logo="卫视卡式台F"  group-title="🇭🇰HK/香港频道🇭🇰",mpd衛視卡式
+https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_dash_vmx/SCMlegend.mpd
+#EXTINF:-1, tvg-name="卫视卡式台" tvg-logo="卫视卡式台F"  group-title="🇭🇰HK/香港频道🇭🇰",**卫视卡式台
+http://v3948069e.live.126.net/live/us01/tw20210216tvbkashi.flv
+#EXTINF:-1, tvg-name="卫视卡式台" tvg-logo="卫视卡式台F"  group-title="🇭🇰HK/香港频道🇭🇰",**卫视卡式台
+rtmp://ws.matchupstream.tuboshu.com/live/bothstartest
+#EXTINF:-1, tvg-name="卫视卡式台" tvg-logo="卫视卡式台F"  group-title="🇭🇰HK/香港频道🇭🇰", 卫视卡式台
+http://42.194.143.157/jtdl1.php?url=1085
+#EXTINF:-1 tvg-name="HBO" tvg-logo="http://image.free.in.th/v/2013/io/200528062517.jpg"  group-title="🇭🇰HK/香港频道🇭🇰",HBO
+http://198.16.106.58:8278/sundance_twn/playlist.m3u8?tid=M200000000000519104841&ct=18639&tsum=c5edc8fc8db4672fc2f3f7111c99ec7b
+#EXTINF:-1 tvg-logo="http://image.free.in.th/v/2013/io/200528062517.jpg"  group-title="🇭🇰HK/香港频道🇭🇰",HBO RED
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
+#EXTINF:0 tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1443770018_screen-red-sd-new.png" group-title="🇭🇰HK/香港频道🇭🇰",HBO Red
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8#EXTINF:-1, tvg-name="StarMoviesHD" tvg-logo="StarMovies"  group-title="🇭🇰HK/香港频道🇭🇰", StarMovies
+http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EAD35B4U3197B163K776A62FEI552832B7PBM323528BV0Z9C465W160B2A4776A80BF1&playtoken=31650QOYQLDGXXB10&verifycode=2003460862&rate=org&programid=4200900111.m3u8&_res_tag_=video
+#EXTINF:-1, tvg-name="StarMoviesHD" tvg-logo="StarMovies"  group-title="🇭🇰HK/香港频道🇭🇰", StarMovies中字
+http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=hls&playtoken=ABCDEFGHI&accesstoken=R5ECA3A64U3191B163K776AAA45I98525ADEPBM3238581V0Z9C465W1611EBE7BE3AEBED&&programid=4200900111.m3u8
+#EXTINF:-1, tvg-name="HBO" tvg-logo="HBO"  group-title="🇭🇰HK/香港频道🇭🇰", HBO
+http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=hls&playtoken=ABCDEFGHI&accesstoken=R5ECA3A64U3191B163K776AAA45I98525ADEPBM3238581V0Z9C465W1611EBE7BE3AEBED&&programid=4200900115.m3u8
+#EXTINF:-1, tvg-name="AXN" tvg-logo="AXN"  group-title="🇭🇰HK/香港频道🇭🇰", AXN电影
+http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=hls&playtoken=ABCDEFGHI&accesstoken=R5ECA3A64U3191B163K776AAA45I98525ADEPBM3238581V0Z9C465W1611EBE7BE3AEBED&&programid=4200900116.m3u8
+#EXTINF:-1, tvg-name="HBO" tvg-logo="HBO"  group-title="🇭🇰HK/香港频道🇭🇰", HBO亚洲
+http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E527FBEU319AC163K7768D0EEI59A8C401PBM321BC1AV0Z9C465W15F60B7EBB17EFE8&playtoken=31648YBGNZQKEGQ10&verifycode=2003357934&rate=org&programid=4200900115.m3u8
+#EXTINF:-1, tvg-name="星卫HD电影" tvg-logo="星卫电影"  group-title="🇭🇰HK/香港频道🇭🇰", 星卫HD电影台
+https://liveng.alicdn.com/mediaplatform/7430d500-5b7b-4c3f-9d8a-f1fcaee1c810.m3u8?auth_key=1636465474-0-0-b7c059b907e8aef2b284483677aa1399
+#EXTINF:-1, tvg-name="HKC电影台" tvg-logo="HKC电影台"  group-title="🇭🇰HK/香港频道🇭🇰", HKC电影台HD
+http://42.194.143.157/jtdl1.php?url=354
